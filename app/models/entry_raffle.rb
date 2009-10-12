@@ -1,0 +1,2 @@
+class EntryRaffle < Entry
+end

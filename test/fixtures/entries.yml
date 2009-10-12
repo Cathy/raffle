@@ -1,0 +1,17 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  game_id: 1
+  user_id: 1
+  type: MyString
+  input1: 1
+  input2: 1
+  input3: 1
+
+two:
+  game_id: 1
+  user_id: 1
+  type: MyString
+  input1: 1
+  input2: 1
+  input3: 1

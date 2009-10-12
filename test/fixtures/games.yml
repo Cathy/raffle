@@ -1,0 +1,11 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  type: MyString
+  expiry: 1
+  name: MyString
+
+two:
+  type: MyString
+  expiry: 1
+  name: MyString

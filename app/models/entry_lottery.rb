@@ -1,0 +1,2 @@
+class EntryLottery < Entry
+end

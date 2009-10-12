@@ -1,0 +1,2 @@
+class Lottery < Game
+end
